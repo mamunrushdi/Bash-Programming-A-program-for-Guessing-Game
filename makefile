@@ -1,5 +1,5 @@
 info:guessinggame.sh
-	echo "Tile:" > README.md
+	echo "#Title:" > README.md
 	find -name guessinggame.sh >> README.md
 	echo "'make' was run on:" >> README.md
 	date >> README.md
