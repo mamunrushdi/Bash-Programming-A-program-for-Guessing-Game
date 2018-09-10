@@ -1,6 +1,4 @@
 #!/bin/bash
-
-#function to play the game
 function playGame()
 {
 	echo "Great! Now let's play the game..."
@@ -8,16 +6,22 @@ function playGame()
 
 	#read user input
 	read guess
-		
 	#evalutating userGuess
-	while [[ $guess -ne 4 || $guess -lt 0 ]]
+	while [[ $guess -ne 3 ]]
 		do
-			echo "Sorry your guess is not right or invalid. Please enter your guess again (remember guess must be a postive integer):"
+			if [[ $guess -gt 3 ]]
+			then
+				echo "Your guess is to high."
+			elif [[ $guess -lt 3 ]]
+			then
+				echo "Sorry your guess is too low."
+			fi
+
+			echo "Please enter your guess again (remember guess must be a postive integer" 
 			read guess
 		done
 	#upon successful guess print congratulation message
 	echo "Congratulation! Your guees is CORRECT!!!"
-
 }
 
 #function prompt defining
