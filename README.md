@@ -1,7 +1,7 @@
-Final Assignment: Guessing Game
+## Final Assignment: Guessing Game
 
-## 'make' was run on:
-Чт сен 13 16:59:05 UTC 2018
+# 'make' was run on:
+Чт сен 13 17:00:57 UTC 2018
 
-## Total number line of code in guessinggame.sh are:
+# Total number of line of code in guessinggame.sh:
 33
