@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #read the total file number of the current direcitory
-fileNumber=`ls | wc -l`
+fileNumber=`ls -l . | egrep -c '^-'`
 
 function playGame()
 {
