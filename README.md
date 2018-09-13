@@ -1,6 +1,6 @@
-#Title:
+Title:
 ./guessinggame.sh
 'make' was run on:
-Пн сен 10 22:47:38 MSK 2018
+Чт сен 13 19:45:21 MSK 2018
 Total number line of code in guessinggame.sh are:
-48
+33
