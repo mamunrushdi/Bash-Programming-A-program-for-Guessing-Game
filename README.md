@@ -1,6 +1,6 @@
 ### This porject is the final assignment of introductory course of Unix-like operating systems like macOS and Linux distributions like Ubuntu conducted _John Hopkins Univeristy_ in Coursera.
 
-## Skilled learned in this course: 
+## Skills learned in this course: 
  1. Using Linux from terminal and execute different kind of activies through Terminal
  1. Shell Script
  1. Github
