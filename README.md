@@ -18,4 +18,4 @@
 # Total number of line of code in guessinggame.sh:
 33
 
-# [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/4.%20The%20Unix%20Workbench.pdf)
+# [Accomplishment certificate](https://github.com/mmncoder/Coursera-Certificates/blob/master/The%20Unix%20Workbench.pdf)
