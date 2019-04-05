@@ -5,7 +5,7 @@
  1. Shell Script
  1. Github
  1. Bash (Unix Shell)
- 1. Cloud Computing
+ 1. Cloud Computing.
  
  __Task for final project:__
  When the program starts the user would be asked how many files are in the current directory, and then the user should be prompted for a guess. The user will get feedback according to his guess. 
